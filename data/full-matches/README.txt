@@ -1,0 +1,1 @@
+Coloque aqui os arquivos .rcg.gz, .rcl.gz, .event.csv e .tracking.csv completos.
